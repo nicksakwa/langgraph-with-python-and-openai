@@ -4,7 +4,7 @@ In this GitHub repository, I share code on langgraph with python and openai.
 
 # Python AI development with langraph 
 
-PyUnit is a  core library used for testing Python applications, while Pytest is a framework for testing Python applications.
+Langraph library is used for I share code on langgraph with python and openai..
 
 
 ## For this repository, the prerequisites are:
